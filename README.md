@@ -4,7 +4,7 @@ Apredizado de frontend, backend e soft skills
 
 # Frontend - Projeto Astromatch
 
-:dash: [Deploy da aplicação](http://misty-bucket.surge.sh/http://waggish-pest.surge.sh/)
+:dash: [Deploy da aplicação](http://waggish-pest.surge.sh/)
 
 [Documentação da API](https://documenter.getpostman.com/view/7549981/SW12yx56?version=latest#53fb805a-37c2-4bf1-98fc-f5d8c65143d8)
 
